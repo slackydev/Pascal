@@ -8,7 +8,7 @@ Compile-instructions are found in `main.py`, you will need the RPython-source.
 
 Features
 --------
-- [/] Functions (needs more work)
+- [x] Functions (needs more work)
 - [x] Variables
 - [x] If, Else, For, While, Repeat
 - [x] Continue, Break, Exit, Pass
