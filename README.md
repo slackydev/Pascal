@@ -8,28 +8,28 @@ Compile-instructions are found in `main.py`, you will need the RPython-source.
 
 Features
 --------
-[/] Functions (needs more work)
-[x] Variables
-[x] If, Else, For, While, Repeat
-[x] Continue, Break, Exit, Pass
-[ ] Named constants
-[ ] Try, Except, Finally
-[ ] Case
-[ ] Directives
+- [/] Functions (needs more work)
+- [x] Variables
+- [x] If, Else, For, While, Repeat
+- [x] Continue, Break, Exit, Pass
+- [ ] Named constants
+- [ ] Try, Except, Finally
+- [ ] Case
+- [ ] Directives
 
 
 Basetypes
 ---------
-[x] Int/Integer (native integer)
-[x] Int32
-[x] Int64
-[x] Float (64bit)
-[x] Char
-[x] String
-[x] Dynamic Arrays
-[x] Record (still needs some work)
-[ ] Enums
-[ ] Variants(?)
+- [x] Int/Integer (native integer)
+- [x] Int32
+- [x] Int64
+- [x] Float (64bit)
+- [x] Char
+- [x] String
+- [x] Dynamic Arrays
+- [x] Record (still needs some work)
+- [ ] Enums
+- [ ] Variants(?)
 
 
 
