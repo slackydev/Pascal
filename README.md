@@ -1,6 +1,6 @@
 # Pascal
-A very simple interpreter for a pascal-derived language. 
-The interpreter is still lacking a lot of core features, and contains a lot of bugs..
+A very simple interpreter for a pascal-derived language, written simply to learn the RPython compiler and toolchain. 
+The interpreter is still lacking a lot of core features, and contains a lot of bugs.
 
 To execute just run: `pascal.exe <path/to/myfile.pas>`
 Compile-instructions are found in `main.py`, you will need the RPython-source.
@@ -18,7 +18,7 @@ Features
 - [ ] Directives
 
 
-Basetypes
+Basetypes [1]
 ---------
 - [x] Int/Integer (native integer)
 - [x] Int32
@@ -26,10 +26,9 @@ Basetypes
 - [x] Float (64bit)
 - [x] Char
 - [x] String
-- [x] Dynamic Arrays
+- [x] Dynamic Arrays (iffy implementation)
 - [x] Record (still needs some work)
 - [ ] Enums
-- [ ] Variants(?)
+- [ ] "Variants"/dynamic datatype(?)
 
-
-
+[1]: Implementation of these types are objects, but they store the specified datatype. 
